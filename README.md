@@ -25,7 +25,7 @@ VisionAI is a Python-based program that leverages artificial intelligence and vo
 2. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -e .
    ```
 
 3. Set up your API keys:
@@ -37,7 +37,7 @@ VisionAI is a Python-based program that leverages artificial intelligence and vo
 1. Launch the VisionAI program:
 
    ```bash
-   python visionai.py
+   visionai
    ```
 
 2. Follow the voice prompts to navigate web pages, issue commands, and interact with content.
